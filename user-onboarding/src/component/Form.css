@@ -1,0 +1,32 @@
+form{
+    display: flex;
+    flex-direction: column;
+
+}
+label{
+    width: 80%;
+    padding: 30px;
+   
+}
+input{
+    margin-left: 20px;
+
+}
+button{
+    width: 100px;
+    
+}
+.bottom{
+  
+}
+select{margin-left: 20px;}
+
+.section{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   
+}
+.error{
+    color: crimson;
+}
